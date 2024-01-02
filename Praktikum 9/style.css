@@ -1,0 +1,26 @@
+div {
+    background-color: aqua;
+    color: black;
+}
+.Karyawan {
+    display: flex;
+    width: 50%;
+    margin-left: 50spx;
+    align-items: center;
+    justify-content: space-between;
+
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+form {
+    width: 40%;
+    margin: auto;
+}
+th {
+    text-align: right;
+}
+th , td {
+    padding: 5px;
+}
